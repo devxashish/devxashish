@@ -1,16 +1,32 @@
-## Hi there 👋
+Hi, I'm Ashish 👋
 
-<!--
-**devxashish/devxashish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 About Me
 
-Here are some ideas to get you started:
+I'm an AI and Full Stack Developer passionate about building real-world applications, automation systems, and scalable software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tech Stack
+
+- Python
+- JavaScript
+- React
+- Node.js
+- Git & GitHub
+- AI & Automation
+
+🌱 Currently Learning
+
+- Advanced AI Development
+- Full Stack Engineering
+- Cloud & DevOps
+- System Design
+
+📌 Goals for 2026
+
+- Build impactful open-source projects
+- Contribute consistently on GitHub
+- Create production-ready applications
+- Grow as an AI Engineer
+
+---
+
+⭐ Thanks for visiting my profile!
