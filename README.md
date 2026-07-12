@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=667eea&height=120&section=header&text=Ashish%20Sharma" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=667eea&height=120&section=header&text=Ashish%20Sharma&fontSize=60&fontColor=ffffff&fontAlignY=70" alt="header"/>
 
 <div align="center">
 
