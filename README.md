@@ -22,8 +22,8 @@
 <img src="https://img.shields.io/badge/📍%20India-667eea?style=flat-square&logoColor=white" alt="Location"/>
 
 [<img src="https://img.shields.io/badge/Portfolio-667eea?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio"/>](https://devxashish.vercel.app/)
-[<img src="https://img.shields.io/badge/LinkedIn-667eea?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>](https://linkedin.com/in/devxashish/)
-[<img src="https://img.shields.io/badge/Email-667eea?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>](mailto:ashish@example.com)
+[<img src="https://img.shields.io/badge/LinkedIn-667eea?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>]([https://linkedin.com/in/devxashish/](https://www.linkedin.com/in/ashish-sharma-0a6910420?utm_source=share_via&utm_content=profile&utm_medium=member_android))
+[<img src="https://img.shields.io/badge/Email-667eea?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>](mailto:rajk4435689@gmail.com)
 [<img src="https://img.shields.io/badge/GitHub-667eea?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>](https://github.com/devxashish/)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=devxashish&style=flat-square&color=667eea)
