@@ -1,5 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=667eea&height=120&section=header&text=Ashish%20Sharma&fontSize=60&fontColor=ffffff&fontAlignY=70&desc=AI%20%7C%20Full%20Stack%20Engineer&descAlignY=75" alt="header"/>
 
+
+
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Building+Production-Grade+AI+Systems;Full+Stack+Engineer;AI%2FML+Specialist;Open+Source+Enthusiast)](https://github.com/devxashish)
