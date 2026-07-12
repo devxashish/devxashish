@@ -18,7 +18,7 @@
 
 ---
 
-<img src="https://img.shields.io/badge/Computer%20Science%20Engineer-667eea?style=for-the-badge&logo=academia&logoColor=white" alt="Degree"/>
+```<img src="https://img.shields.io/badge/Computer%20Science%20Engineer-667eea?style=for-the-badge&logo=academia&logoColor=white" alt="Degree"/>```
 <img src="https://img.shields.io/badge/📍%20India-667eea?style=flat-square&logoColor=white" alt="Location"/>
 
 [<img src="https://img.shields.io/badge/Portfolio-667eea?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio"/>](https://devxashish.vercel.app/)
