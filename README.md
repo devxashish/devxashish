@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=667eea&height=120&section=header&text=Ashish%20Sharma&fontSize=60&fontColor=ffffff&fontAlignY=70&desc=AI%20%7C%20Full%20Stack%20Engineer&descAlignY=85&descSize=24" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=667eea&height=120&section=header&text=Ashish%20Sharma&fontSize=60&fontColor=ffffff&fontAlignY=70&desc=AI%20%7C%20Full%20Stack%20Engineer"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Building+Production-Grade+AI+Systems;Full+Stack+Development+%26+Cloud+Architecture;Passionate+About+Scalable+Software+Engineering)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Building+Production-Grade+AI+Systems;Full+Stack+Engineer+%26+AI+Developer;Crafting+Scalable+Solutions;Open+to+Innovation)]
 
 ---
 
@@ -24,7 +24,7 @@
 
 ## 🚀 About Me
 
-I'm a **Full Stack Engineer and AI Systems Developer** with a passion for building scalable, production-grade applications that solve real-world problems. My expertise spans across **AI/ML**, **cloud architecture**, and **full-stack development**, with a strong focus on software engineering best practices and clean architecture.
+I'm a **Full Stack Engineer and AI Systems Developer** with a passion for building scalable, production-grade applications that solve real-world problems. My expertise spans across **AI/ML**, **cloud architecture**, and **full stack development**, with a strong focus on software engineering best practices and clean architecture.
 
 I thrive at the intersection of **innovation and pragmatism**, turning complex requirements into elegant, maintainable solutions. Open to collaborating on **groundbreaking AI projects**, **product engineering challenges**, and **open-source initiatives**.
 
@@ -246,9 +246,9 @@ Contributed to cutting-edge AI research on natural language processing and machi
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devxashish&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=667eea&text_color=c9cacc&icon_color=667eea&border_color=30363d&count_private=true)](https://github.com/devxashish)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devxashish&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=667eea&text_color=c9cacc&icon_color=667eea&border_color=303030)](https://github.com/devxashish)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=devxashish&theme=tokyonight&background=0D1117&stroke=667EEA&ring=667EEA&fire=667EEA&currStreakNum=C9CACC&sideNums=C9CACC&currStreakLabel=667EEA&sideLabels=667EEA&dates=8B949E&date_format=j%20M%5B%20Y%5D)](https://github.com/devxashish)
+[![GitHub Streak](https://streak-stats.demolab.com?user=devxashish&theme=tokyonight&background=0D1117&stroke=667EEA&ring=667EEA&fire=667EEA&currStreakNum=C9CACC&sideNums=C9CACC&currStreakLabel=667EEA&sideLabels=C9CACC)](https://github.com/devxashish)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devxashish&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=667eea&text_color=c9cacc&border_color=30363d)](https://github.com/devxashish)
 
@@ -268,7 +268,7 @@ Contributed to cutting-edge AI research on natural language processing and machi
 
 ## 📈 Contribution Activity
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=devxashish&theme=tokyo-night&bg_color=0D1117&color=667EEA&line=667EEA&point=667EEA&area_color=58A6FF&area=true&hide_border=true)](https://github.com/devxashish)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=devxashish&theme=tokyo-night&bg_color=0D1117&color=667EEA&line=667EEA&point=667EEA&area_color=58A6FF&area=true&hide_border=true&custom_title=Contribution%20Activity)](https://github.com/devxashish)
 
 ---
 
@@ -328,4 +328,4 @@ Open To:
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=667eea&height=120&section=footer&text=Happy%20Coding%21&fontSize=50&fontColor=ffffff&fontAlignY=70" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=667eea&height=120&section=footer&text=Happy%20Coding!&fontSize=50&fontColor=ffffff&fontAlignY=70" alt="footer"/>
