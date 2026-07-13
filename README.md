@@ -246,8 +246,6 @@ Contributed to cutting-edge AI research on natural language processing and machi
 <div align="center">
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/devxashish/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/devxashish)
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/devxashish)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B2C6F?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/devxashish)
 
 </div>
