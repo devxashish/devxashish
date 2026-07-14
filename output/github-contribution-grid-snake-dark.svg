@@ -1,0 +1,108 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="120" viewBox="0 0 780 120" preserveAspectRatio="xMidYMid meet">
+  <style>
+    .cell { fill:#0b1220; stroke:#0f1724; stroke-width:2 }
+    .level0 { fill:#0b1220 } /* background */
+    .level1 { fill:#1f2a3a }
+    .level2 { fill:#35506b }
+    .level3 { fill:#5c8bb7 }
+    .snake { fill:#8ab4ff; filter:drop-shadow(0 2px 6px rgba(0,0,0,0.6)); }
+    /* move the snake along a sequence of positions using keyframes */
+    @keyframes slide {
+      0%   { transform: translate(0px,0px); }
+      5%   { transform: translate(36px,0px); }
+      10%  { transform: translate(72px,0px); }
+      15%  { transform: translate(108px,0px); }
+      20%  { transform: translate(144px,0px); }
+      25%  { transform: translate(180px,0px); }
+      30%  { transform: translate(216px,0px); }
+      35%  { transform: translate(252px,0px); }
+      40%  { transform: translate(288px,0px); }
+      45%  { transform: translate(324px,0px); }
+      50%  { transform: translate(360px,0px); }
+      55%  { transform: translate(324px,36px); }
+      60%  { transform: translate(288px,36px); }
+      65%  { transform: translate(252px,36px); }
+      70%  { transform: translate(216px,36px); }
+      75%  { transform: translate(180px,36px); }
+      80%  { transform: translate(144px,36px); }
+      85%  { transform: translate(108px,36px); }
+      90%  { transform: translate(72px,36px); }
+      95%  { transform: translate(36px,36px); }
+      100% { transform: translate(0px,36px); }
+    }
+    .snake-group {
+      transform-origin: 0 0;
+      animation: slide 6s linear infinite;
+    }
+  </style>
+
+  <!-- background grid (7 rows x 20 cols example) -->
+  <g transform="translate(10,10)">
+    <!-- draw grid: spacing 36 -->
+    <!-- fill pattern to look like contribution levels -->
+    <g id="grid">
+      <!-- generate 3 rows for compactness -->
+      <!-- row 0 -->
+      <rect class="cell level0" x="0" y="0" width="32" height="32" rx="6" ry="6"/>
+      <rect class="cell level1" x="36" y="0" width="32" height="32" rx="6" ry="6"/>
+      <rect class="cell level2" x="72" y="0" width="32" height="32" rx="6" ry="6"/>
+      <rect class="cell level3" x="108" y="0" width="32" height="32" rx="6" ry="6"/>
+      <rect class="cell level2" x="144" y="0" width="32" height="32" rx="6" ry="6"/>
+      <rect class="cell level1" x="180" y="0" width="32" height="32" rx="6" ry="6"/>
+      <rect class="cell level0" x="216" y="0" width="32" height="32" rx="6" ry="6"/>
+      <rect class="cell level1" x="252" y="0" width="32" height="32" rx="6" ry="6"/>
+      <rect class="cell level2" x="288" y="0" width="32" height="32" rx="6" ry="6"/>
+      <rect class="cell level3" x="324" y="0" width="32" height="32" rx="6" ry="6"/>
+      <rect class="cell level2" x="360" y="0" width="32" height="32" rx="6" ry="6"/>
+      <rect class="cell level1" x="396" y="0" width="32" height="32" rx="6" ry="6"/>
+      <rect class="cell level0" x="432" y="0" width="32" height="32" rx="6" ry="6"/>
+    </g>
+
+    <!-- second row -->
+    <g transform="translate(0,36)">
+      <rect class="cell level1" x="0" y="0" width="32" height="32" rx="6" ry="6"/>
+      <rect class="cell level2" x="36" y="0" width="32" height="32" rx="6" ry="6"/>
+      <rect class="cell level3" x="72" y="0" width="32" height="32" rx="6" ry="6"/>
+      <rect class="cell level2" x="108" y="0" width="32" height="32" rx="6" ry="6"/>
+      <rect class="cell level1" x="144" y="0" width="32" height="32" rx="6" ry="6"/>
+      <rect class="cell level0" x="180" y="0" width="32" height="32" rx="6" ry="6"/>
+      <rect class="cell level1" x="216" y="0" width="32" height="32" rx="6" ry="6"/>
+      <rect class="cell level2" x="252" y="0" width="32" height="32" rx="6" ry="6"/>
+      <rect class="cell level3" x="288" y="0" width="32" height="32" rx="6" ry="6"/>
+      <rect class="cell level2" x="324" y="0" width="32" height="32" rx="6" ry="6"/>
+      <rect class="cell level1" x="360" y="0" width="32" height="32" rx="6" ry="6"/>
+      <rect class="cell level0" x="396" y="0" width="32" height="32" rx="6" ry="6"/>
+      <rect class="cell level1" x="432" y="0" width="32" height="32" rx="6" ry="6"/>
+    </g>
+
+    <!-- third row -->
+    <g transform="translate(0,72)">
+      <rect class="cell level2" x="0" y="0" width="32" height="32" rx="6" ry="6"/>
+      <rect class="cell level1" x="36" y="0" width="32" height="32" rx="6" ry="6"/>
+      <rect class="cell level0" x="72" y="0" width="32" height="32" rx="6" ry="6"/>
+      <rect class="cell level1" x="108" y="0" width="32" height="32" rx="6" ry="6"/>
+      <rect class="cell level2" x="144" y="0" width="32" height="32" rx="6" ry="6"/>
+      <rect class="cell level3" x="180" y="0" width="32" height="32" rx="6" ry="6"/>
+      <rect class="cell level2" x="216" y="0" width="32" height="32" rx="6" ry="6"/>
+      <rect class="cell level1" x="252" y="0" width="32" height="32" rx="6" ry="6"/>
+      <rect class="cell level0" x="288" y="0" width="32" height="32" rx="6" ry="6"/>
+      <rect class="cell level1" x="324" y="0" width="32" height="32" rx="6" ry="6"/>
+      <rect class="cell level2" x="360" y="0" width="32" height="32" rx="6" ry="6"/>
+      <rect class="cell level3" x="396" y="0" width="32" height="32" rx="6" ry="6"/>
+      <rect class="cell level2" x="432" y="0" width="32" height="32" rx="6" ry="6"/>
+    </g>
+
+    <!-- snake: three-segment indicator that moves along grid using CSS animation -->
+    <g class="snake-group">
+      <rect class="snake" x="-2" y="-2" width="36" height="36" rx="8" ry="8" opacity="0.95"/>
+      <rect class="snake" x="-2" y="34" width="36" height="36" rx="8" ry="8" opacity="0.85"/>
+      <rect class="snake" x="-2" y="70" width="36" height="36" rx="8" ry="8" opacity="0.75"/>
+    </g>
+
+  </g>
+
+  <!-- small caption -->
+  <g transform="translate(10,100)">
+    <text x="0" y="14" fill="#9fb6ff" font-family="Verdana" font-size="12">github contribution snake — dark</text>
+  </g>
+</svg>
