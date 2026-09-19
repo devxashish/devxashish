@@ -1,78 +1,68 @@
-# Hi, I'm Aashish Sharma
+# Aashish Sharma
 
 ### Web & App Developer | AI-Assisted Developer
 
-I build modern web and mobile applications with a focus on practical problem solving, clean user experiences, and useful business-oriented software. I use AI tools responsibly for development, debugging, research, and productivity while continuing to strengthen my fundamentals.
-
-## About Me
-
-- Self-driven developer focused on web and application development
-- Practical experience building business applications, portfolio websites, and browser-based tools
-- Interested in creating maintainable interfaces and solving real-world workflow problems
-- Currently developing my skills through hands-on projects and continuous learning
+I build modern web and mobile applications with a focus on practical problem solving, clear user experiences, and responsible AI-assisted development.
 
 ## What I Build
 
-- Responsive web applications with clear, practical user experiences
-- Business-focused tools for managing data, workflows, and reporting
-- Browser-based utilities that keep processing simple and privacy-conscious
-- Mobile-ready applications using cross-platform web technologies
+- Responsive web applications for practical business and everyday workflows
+- Browser-based tools that keep processing simple and privacy-conscious
+- Interactive interfaces with thoughtful motion, mapping, and data presentation
+- Mobile-ready applications built with cross-platform web technologies
 
-## Tech & Tools
+## Tech Stack
 
 **Languages**  
-JavaScript, HTML, CSS
+JavaScript · HTML · CSS
 
 **Frontend**  
-React, React Router, Vite, Tailwind CSS, Framer Motion, Leaflet
+React · React Router · Vite · Tailwind CSS · Framer Motion
 
-**Backend & Services**  
-Firebase
+**Services & App Development**  
+Firebase · Capacitor
 
-**App Development**  
-Capacitor
+**Libraries & Tools**  
+JSZip · jsPDF · XLSX · Leaflet · Three.js · React Three Fiber · Git · GitHub
 
-**Libraries & Utilities**  
-JSZip, jsPDF, XLSX, Lucide React
-
-**Workflow**  
-Git, GitHub, Vercel, Netlify, AI-assisted development tools
+**Deployment**  
+Vercel · Netlify
 
 ## Featured Projects
 
 ### [MAXBOND](https://github.com/devxashish/MAXBOND)
-A business management web application for handling areas such as inventory, expenses, fuel records, attendance, multi-site operations, and reporting.
+A business management application covering workflows such as inventory, expenses, fuel records, attendance, multi-site operations, and reporting.
 
-**Built with:** React, Firebase, Tailwind CSS, Capacitor, Leaflet, jsPDF, XLSX  
+**Built with:** React · Firebase · Tailwind CSS · Capacitor · Leaflet · jsPDF · XLSX  
 **Live demo:** [maxbond.vercel.app](https://maxbond.vercel.app)
 
 ### [UnZip Web](https://github.com/devxashish/unzip-web)
-A browser-based ZIP extraction tool that lets users upload archives, browse their contents, and download files. Processing is designed to happen on the client side, so files do not need to be uploaded to a server.
+A browser-based ZIP extraction and file-browsing tool. Archive processing is designed to happen client-side, keeping files on the user's device.
 
-**Built with:** React, Vite, React Router, JSZip
+**Built with:** React · Vite · React Router · JSZip  
+**Live demo:** [unzip-web.netlify.app](https://unzip-web.netlify.app)
 
 ### [Atlas UI](https://github.com/devxashish/atlas-ui)
-A multi-theme interface project exploring cinematic visual design, 3D experiences, and interactive animations.
+A multi-theme interface project exploring cinematic visual design, 3D experiences, and interactive animation.
 
-**Built with:** React, Vite, Three.js, React Three Fiber, Theatre.js, Framer Motion, Tailwind CSS  
+**Built with:** React · Vite · Three.js · React Three Fiber · Theatre.js · Framer Motion · Tailwind CSS  
 **Live demo:** [atlas-ui-three.vercel.app](https://atlas-ui-three.vercel.app)
 
 ### [Portfolio](https://github.com/devxashish/PORTFOLIO)
-A personal portfolio application built to present projects, skills, and developer information through a responsive React interface.
+A responsive React portfolio application for presenting projects, skills, and developer information.
 
-**Built with:** React, Firebase, React Router, Framer Motion, Tailwind CSS
+**Built with:** React · Tailwind CSS · Framer Motion · Firebase · React Router
 
 ## Currently Learning
 
-- Full-stack web development and stronger backend practices
-- Application development for web and mobile platforms
-- Better database structure, authentication, and data handling
-- Production-quality development, testing, and deployment workflows
+- Stronger full-stack and backend development practices
+- Database structure, authentication, and reliable data handling
+- Testing, accessibility, and production deployment workflows
 - Effective and responsible use of AI-assisted development tools
 
 ## Development Approach
 
-I prefer learning by building: understand the problem, keep the interface straightforward, write maintainable code, and improve through testing and iteration. AI helps me explore solutions and work more efficiently, but I use it alongside documentation, debugging, and my own technical judgment.
+I learn by building: understand the problem, keep the interface focused, write maintainable code, and improve through testing and iteration. I use AI tools to explore solutions and accelerate development while reviewing, adapting, and taking responsibility for the resulting code.
 
 ## Connect
 
